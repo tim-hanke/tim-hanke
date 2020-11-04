@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **software engineering at Thinkful.com.**
 
-- 👨‍💻 All of my projects are available at [https://tim-hanke.github.io/portfolio/](https://tim-hanke.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio.timhanke.dev/](https://portfolio.timhanke.dev/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
