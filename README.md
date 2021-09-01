@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim Hanke</h1>
 <h3 align="center">A passionate software developer from Florida, USA</h3>
 
-- 🌱 I’m currently studying **software engineering at Thinkful.com.**
-
 - 👨‍💻 All of my projects are available at [https://portfolio.timhanke.dev/](https://portfolio.timhanke.dev/)
 
 <p align="left">
